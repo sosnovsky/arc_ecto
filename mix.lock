@@ -1,4 +1,4 @@
-%{"arc": {:hex, :arc, "0.6.0", "f4ef95b4e72ec5bce8db3474245e8202938b45e431adb34b20a8cda18d98373b", [:mix], [{:ex_aws, "~> 1.0.0", [hex: :ex_aws, optional: true]}, {:httpoison, "~> 0.8", [hex: :httpoison, optional: false]}, {:poison, "~> 2.0 or ~> 3.0", [hex: :poison, optional: true]}, {:sweet_xml, "~> 0.5", [hex: :sweet_xml, optional: true]}]},
+%{"arc": {:hex, :arc, "0.7.0", "36ba65e390c2f869b98ebbe79d66eedf383788875986a20a546f19d87e4f13ac", [:mix], [{:ex_aws, "~> 1.0.0", [hex: :ex_aws, optional: true]}, {:httpoison, "~> 0.8", [hex: :httpoison, optional: false]}, {:poison, "~> 2.0 or ~> 3.0", [hex: :poison, optional: true]}, {:sweet_xml, "~> 0.5", [hex: :sweet_xml, optional: true]}]},
   "certifi": {:hex, :certifi, "0.7.0", "861a57f3808f7eb0c2d1802afeaae0fa5de813b0df0979153cbafcd853ababaf", [:rebar3], []},
   "decimal": {:hex, :decimal, "1.1.2", "79a769d4657b2d537b51ef3c02d29ab7141d2b486b516c109642d453ee08e00c", [:mix], []},
   "earmark": {:hex, :earmark, "1.0.1", "2c2cd903bfdc3de3f189bd9a8d4569a075b88a8981ded9a0d95672f6e2b63141", [:mix], []},
